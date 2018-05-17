@@ -1,0 +1,6 @@
+C:\Users\jyyk\documents\visual studio 2015\Projects\ztjs\TestConsole\bin\Debug\TestConsole.exe.config
+C:\Users\jyyk\documents\visual studio 2015\Projects\ztjs\TestConsole\bin\Debug\TestConsole.exe
+C:\Users\jyyk\documents\visual studio 2015\Projects\ztjs\TestConsole\bin\Debug\TestConsole.pdb
+C:\Users\jyyk\documents\visual studio 2015\Projects\ztjs\TestConsole\obj\Debug\TestConsole.csprojResolveAssemblyReference.cache
+C:\Users\jyyk\documents\visual studio 2015\Projects\ztjs\TestConsole\obj\Debug\TestConsole.exe
+C:\Users\jyyk\documents\visual studio 2015\Projects\ztjs\TestConsole\obj\Debug\TestConsole.pdb
